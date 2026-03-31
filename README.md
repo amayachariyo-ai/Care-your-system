@@ -13,3 +13,4 @@ A simple and effective utility to maintain your Windows system's health.
 
 ---
 *Verified safe: You can check the `New Text Document.bat` file in this repository to see the exact code used.*
+The password is GITHUB
